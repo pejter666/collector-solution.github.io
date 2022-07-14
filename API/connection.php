@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$dbname = "id19271996_wp_c5979a5ab21bebeeb192f9a1e69929c0";
-$username = "id19271996_wp_c5979a5ab21bebeeb192f9a1e69929c0";
-$password = "62=[Npsi3?A&G9~c";
+$dbname = "id19271996_wp_fe8207ec390e9f7f978acb1e80522c02";
+$username = "id19271996_wp_fe8207ec390e9f7f978acb1e80522c02";
+$password = "5}Ea$mMQGE/t661}";
 try{
     $db = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 }catch(Exception $e){
